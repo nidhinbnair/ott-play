@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ott-play/static/css/main.d0106bfe.css",
-    "main.js": "/ott-play/static/js/main.0c91b7e1.js",
+    "main.js": "/ott-play/static/js/main.c179ce43.js",
     "static/css/6.ba965330.chunk.css": "/ott-play/static/css/6.ba965330.chunk.css",
-    "static/js/6.f6a7bb60.chunk.js": "/ott-play/static/js/6.f6a7bb60.chunk.js",
+    "static/js/6.1407cc10.chunk.js": "/ott-play/static/js/6.1407cc10.chunk.js",
     "static/js/787.1560b3d4.chunk.js": "/ott-play/static/js/787.1560b3d4.chunk.js",
     "index.html": "/ott-play/index.html",
     "main.d0106bfe.css.map": "/ott-play/static/css/main.d0106bfe.css.map",
-    "main.0c91b7e1.js.map": "/ott-play/static/js/main.0c91b7e1.js.map",
+    "main.c179ce43.js.map": "/ott-play/static/js/main.c179ce43.js.map",
     "6.ba965330.chunk.css.map": "/ott-play/static/css/6.ba965330.chunk.css.map",
-    "6.f6a7bb60.chunk.js.map": "/ott-play/static/js/6.f6a7bb60.chunk.js.map",
+    "6.1407cc10.chunk.js.map": "/ott-play/static/js/6.1407cc10.chunk.js.map",
     "787.1560b3d4.chunk.js.map": "/ott-play/static/js/787.1560b3d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0106bfe.css",
-    "static/js/main.0c91b7e1.js"
+    "static/js/main.c179ce43.js"
   ]
 }
